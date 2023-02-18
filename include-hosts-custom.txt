@@ -1,0 +1,38 @@
+# Facebook, Instagramm
+fbcdn.net
+cdninstagram.com
+fb.com
+messenger.com
+
+# Twitter
+t.co
+twimg.com
+
+# TheMovieDB
+www.themoviedb.org
+themoviedb.org
+api.themoviedb.org
+image.tmdb.org
+images.tmdb.org
+
+# Kaleido services
+remove.bg
+unscreen.com
+designify.com
+
+# OpenAI
+openai.com
+chat.openai.com
+
+# Github Copilot
+vscode-auth.github.com
+api.github.com
+
+# Other
+theins.ru
+crunchyroll.com
+spotify.com
+agar.io
+www.wakanim.tv
+wakanim.tv
+fotoforensics.com
