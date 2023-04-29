@@ -28,6 +28,10 @@ chat.openai.com
 vscode-auth.github.com
 api.github.com
 
+# Dell
+dell.com
+dellcdn.com
+
 # Other
 theins.ru
 crunchyroll.com
