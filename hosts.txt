@@ -8,6 +8,9 @@ messenger.com
 t.co
 twimg.com
 
+# YouTube (avatar images)
+yt3.ggpht.com
+
 # TheMovieDB
 www.themoviedb.org
 themoviedb.org
@@ -32,13 +35,16 @@ api.github.com
 dell.com
 dellcdn.com
 
-# Other
-theins.ru
+# Anime
 crunchyroll.com
-spotify.com
-agar.io
 www.wakanim.tv
 wakanim.tv
+
+# Other
+theins.ru
+spotify.com
+agar.io
 fotoforensics.com
 fanatical.com
 www.fanatical.com
+bing.com
