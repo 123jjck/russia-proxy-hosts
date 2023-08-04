@@ -41,6 +41,7 @@ www.wakanim.tv
 wakanim.tv
 
 # Other
+adguard-vpn.com
 theins.ru
 spotify.com
 agar.io
