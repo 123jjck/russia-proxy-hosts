@@ -1,3 +1,4 @@
+adguard-vpn.com
 agar.io
 api.github.com
 api.themoviedb.org
