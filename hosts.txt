@@ -34,6 +34,7 @@ api.github.com
 # Dell
 dell.com
 dellcdn.com
+dl.dell.com
 
 # Anime
 crunchyroll.com
@@ -41,11 +42,63 @@ www.wakanim.tv
 wakanim.tv
 
 # Other
-adguard-vpn.com
-theins.ru
-spotify.com
+adafruit.com
 agar.io
-fotoforensics.com
+airbrake.io
+analog.com
+annimon.com
+bestbuy.com
+citrix.com
+clevelandclinic.org
+cpu-monkey.com
+daz3d.com
+deezer.com
+dumpforums.to
 fanatical.com
+flexpool.io
+fotoforensics.com
+gambody.com
+ghidra-sre.org
+grammarly.com
+healthline.com
+hybrid-analysis.com
+intel.com
+joesandbox.com
+jsfiddle.net
+keepgrowing.in
+keepsolid.com
+letyshops.com
+macvendors.com
+maximintegrated.com
+megogo.net
+mouser.com
+netflix.com
+nxp.com
+oclc.org
+perforce.com
+pluralsight.com
+qualcomm.com
+ratatype.com
+readdle.com
+redis.com
+securitytrails.com
+setapp.com
+solarwinds.com
+spotify.com
+steganos.com
+strava.com
+sysdig.com
+vagrantcloud.com
+veritas.com
+vpnunlimited.com
+vyos.io
+weather.com
+yourdictionary.com
+adguard-vpn.com
+community.cisco.com
+bits.avcdn.net
+theins.ru
+builds.parsec.app
+software-static.download.prss.microsoft.com
 www.fanatical.com
 bing.com
