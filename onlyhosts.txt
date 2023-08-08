@@ -10,6 +10,7 @@ bestbuy.com
 bing.com
 bits.avcdn.net
 builds.parsec.app
+canva.com
 cdninstagram.com
 chat.openai.com
 citrix.com
@@ -22,9 +23,11 @@ deezer.com
 dell.com
 dellcdn.com
 designify.com
+digikey.com
 dl.dell.com
 dumpforums.to
 fanatical.com
+farnell.com
 fb.com
 fbcdn.net
 flexpool.io
@@ -70,6 +73,7 @@ sysdig.com
 t.co
 theins.ru
 themoviedb.org
+ti.com
 twimg.com
 unscreen.com
 vagrantcloud.com
