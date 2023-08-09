@@ -48,13 +48,16 @@ airbrake.io
 analog.com
 annimon.com
 bestbuy.com
+canva.com
 citrix.com
 clevelandclinic.org
 cpu-monkey.com
 daz3d.com
 deezer.com
+digikey.com
 dumpforums.to
 fanatical.com
+farnell.com
 flexpool.io
 fotoforensics.com
 gambody.com
@@ -89,6 +92,7 @@ spotify.com
 steganos.com
 strava.com
 sysdig.com
+ti.com
 vagrantcloud.com
 veritas.com
 vpnunlimited.com
