@@ -93,6 +93,7 @@ steganos.com
 strava.com
 sysdig.com
 ti.com
+tidal.com
 vagrantcloud.com
 veritas.com
 vpnunlimited.com
