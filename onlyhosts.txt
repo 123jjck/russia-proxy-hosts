@@ -74,6 +74,7 @@ t.co
 theins.ru
 themoviedb.org
 ti.com
+tidal.com
 twimg.com
 unscreen.com
 vagrantcloud.com
