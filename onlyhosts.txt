@@ -91,3 +91,17 @@ www.themoviedb.org
 www.wakanim.tv
 yourdictionary.com
 yt3.ggpht.com
+activestate.com
+gaming.amazon.com
+login.amd.com
+forum.chaos.com
+try.chaos.com
+mviskarada.gov.ua
+releases.hashicorp.com
+hex-rays.com
+download.lenovo.com
+cloud.oracle.com
+cart.webex.com
+icd10data.com
+st.com
+yourdictionary.com
